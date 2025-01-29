@@ -1,1 +1,1 @@
-# pair_programmin_exercise
+# pair_programming_exercise
